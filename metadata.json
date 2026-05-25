@@ -1,0 +1,6 @@
+{
+  "name": "Counter",
+  "description": "A minimalist, beautiful, and highly polished Material 3 counter application with historical records, multiple counters, and customizable step sizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
